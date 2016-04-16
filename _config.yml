@@ -1,7 +1,7 @@
 name: NIKO KO
 favicon: null
-layout_spectrum: 0.07238763011991978
-typography_spectrum: 0.9676550978329033
+layout_spectrum: 1
+typography_spectrum: 0.60418
 title: Niko
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7740504578687251
-  lightness: 0.3489791511092335
-  saturation: 0.11511858808808029
-  rhythmicContrast: 0.5708743114955723
+    - '#de365f'
+    - '#101334'
+    - '#33c3cf'
+    - '#b5fef3'
+    - '#fbbabb'
+  brandStrength: 0.3125
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
