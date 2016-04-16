@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NIKO KO]]></title>
-        <description><![CDATA[NIKO KO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Niko]]></title>
+        <description><![CDATA[Niko]]></description>
+        <link>https://thegrid.ai/niko-ko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 00:58:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 01:33:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/niko-ko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hi everyone,</p>]]></description>
-            <link>undefined9aecddf0-3b47-497a-9686-e8f83fc5c954/index.html</link>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>Hi everyone,</p></article>]]></description>
+            <link>https://thegrid.ai/niko-ko/9aecddf0-3b47-497a-9686-e8f83fc5c954/index.html</link>
             <guid isPermaLink="false">9aecddf0-3b47-497a-9686-e8f83fc5c954</guid>
-            <pubDate>Sat, 16 Apr 2016 00:58:52 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 01:32:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
