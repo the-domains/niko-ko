@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: First Post
+    id: 9aecddf0-3b47-497a-9686-e8f83fc5c954
+    type: content
 favicon: null
 title: Niko
 purpose: []
